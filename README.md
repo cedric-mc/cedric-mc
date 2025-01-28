@@ -1,8 +1,6 @@
 ## Hi everyone ! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a project named [eiffel_time](https://github.com/mtelli4/eiffel_time), it's an app on web and mobile.
+🔭 I’m currently working on a project named [eiffel_time](https://github.com/mtelli4/eiffel_time), it's an app on web and mobile.
 
 <!--
 **cedric-mc/cedric-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
